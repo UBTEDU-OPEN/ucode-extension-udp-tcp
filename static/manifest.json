@@ -1,0 +1,12 @@
+{
+  "id": "2a25a00f-5f94-48e6-8bcf-f00ac0221b15",
+  "version": "0.0.1",
+  "name": "UDP_TCP",
+  "type": "hardware",
+  "supportModes": ["online"],
+  "description": "基于UDP搜索，TCP通信的设备插件",
+  "icon": "logo.png",
+  "author": "优必选科技",
+  "readme": "",
+  "USV": "0.3.0"
+}
